@@ -11,6 +11,7 @@ public class Elevator {
         this.currentFloor = 1;
 
     }
+
     public int getCurrentFloor() {
         return currentFloor;
     }

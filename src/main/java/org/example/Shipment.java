@@ -19,6 +19,7 @@ public class Shipment {
 
     }
 
+
     public Dimensions getDimensions() {
         return dimensions;
     }
